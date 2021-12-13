@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ICE-KUBRAO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ICE-KUBRAO\\.nuget\\packages"
+    ]
+  }
+}
